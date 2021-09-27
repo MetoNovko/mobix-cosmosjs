@@ -8,4 +8,4 @@ npm install
 npm test
 ```
 
-Check test/index.js
+Check test/index.js for example.
