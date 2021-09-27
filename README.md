@@ -32,3 +32,6 @@ node --es-module-specifier-resolution=node --experimental-modules index.js
 ```
 
 and ``"type": "module"`` in your ``package.json`` file, because of ES modules.
+
+[WARNING] CosmosJS and this extension is under ACTIVE DEVELOPMENT and should be treated as alpha version.
+

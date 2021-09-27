@@ -11,7 +11,11 @@
     "listen": "node --es-module-specifier-resolution=node --experimental-modules test/ws.js",
     "init": "node --es-module-specifier-resolution=node --experimental-modules test/init.js"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetoNovko/mobix-cosmosjs.git"
+  },
+  "keywords": ["cosmos","mobix","fetch"],
   "author": "Metodija Novkovski",
   "license": "ISC",
   "dependencies": {
