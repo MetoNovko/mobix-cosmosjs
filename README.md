@@ -22,6 +22,11 @@ cosmos.setPath("m/44'/118'/0'/0"); //"m/44'/118'/0'/0/0"
 const wallet = new Wallet(cosmos);
 
 console.log(wallet)
+
+// Usage:
+// wallet.send(denom, toAddress, amount)
+// wallet.delegate(denom, validatorAddress, amount)
+// ...
 ```
 
 ## Important
