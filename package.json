@@ -12,7 +12,7 @@
     "init": "node --es-module-specifier-resolution=node --experimental-modules test/init.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Metodija Novkovski",
   "license": "ISC",
   "dependencies": {
     "bech32": "^1.1.3",

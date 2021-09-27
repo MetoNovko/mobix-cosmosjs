@@ -9,3 +9,10 @@ npm test
 ```
 
 Check test/index.js for example.
+
+## Important
+
+You need to use this options when calling your main script:
+```
+node --es-module-specifier-resolution=node --experimental-modules index.js
+```
