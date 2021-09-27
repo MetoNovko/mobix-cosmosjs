@@ -1,4 +1,4 @@
-import message from "./messages/proto";
+import message from "./messages/proto.js";
 
 export function getAuthInfo(pubKeyAny, sequence, feeAmount, gas_limit=220000){
     const signerInfo = new message.cosmos.tx.v1beta1.SignerInfo({

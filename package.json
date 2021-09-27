@@ -5,11 +5,11 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "node --es-module-specifier-resolution=node --experimental-modules test/index.js",
-    "wallet": "node --es-module-specifier-resolution=node --experimental-modules test/wallet.js",
-    "sandbox": "node --es-module-specifier-resolution=node --experimental-modules test/agents.js",
-    "listen": "node --es-module-specifier-resolution=node --experimental-modules test/ws.js",
-    "init": "node --es-module-specifier-resolution=node --experimental-modules test/init.js"
+    "test": "node test/index.js",
+    "wallet": "node test/wallet.js",
+    "sandbox": "node test/agents.js",
+    "listen": "node test/ws.js",
+    "init": "node test/init.js"
   },
   "repository": {
     "type": "git",

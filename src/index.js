@@ -12,8 +12,8 @@ import * as bech32 from "bech32";
 import secp256k1 from "secp256k1";
 import crypto from "crypto";
 // import bitcoinjs from "bitcoinjs-lib";
-import btcaddr from "./btcaddr";
-import message from "./messages/proto";
+import btcaddr from "./btcaddr.js";
+import message from "./messages/proto.js";
 import { getAuthInfo, getSendTxBody, getDelegateTxBody, getWithdrawRewardsTxBody, getUndelegateTxBody, getRedelegateTxBody } from './helpers.js';
 
 export class Cosmos {

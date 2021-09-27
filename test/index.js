@@ -1,4 +1,4 @@
-import { Cosmos, Wallet } from '../src'
+import { Cosmos, Wallet } from '../src/index.js'
 
 const chainId = "andromeda-1";
 const restEndpoint = "https://rest-andromeda.fetch.ai:443";
