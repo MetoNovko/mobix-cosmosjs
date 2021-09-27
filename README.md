@@ -7,3 +7,5 @@ Cosmosjs extension and adaptation for the purposes of the Mobix project on Fetch
 npm install
 npm test
 ```
+
+Check test/index.js
