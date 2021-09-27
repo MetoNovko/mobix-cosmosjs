@@ -1,6 +1,6 @@
 {
   "name": "mobix-cosmosjs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Cosmosjs extension and adaptation for the purposes of the Mobix project on Fetch.ai",
   "main": "src/index.js",
   "type": "module",
