@@ -1,6 +1,6 @@
 {
   "name": "mobix-cosmosjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cosmosjs extension and adaptation for the purposes of the Mobix project on Fetch.ai",
   "main": "src/index.js",
   "type": "module",
@@ -15,7 +15,11 @@
     "type": "git",
     "url": "https://github.com/MetoNovko/mobix-cosmosjs.git"
   },
-  "keywords": ["cosmos","mobix","fetch"],
+  "keywords": [
+    "cosmos",
+    "mobix",
+    "fetch"
+  ],
   "author": "Metodija Novkovski",
   "license": "ISC",
   "dependencies": {
